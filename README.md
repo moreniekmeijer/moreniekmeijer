@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moreniekmeijer
-- 👀 I’m interested in making music
+- 👀 I’m interested in making music and code
 - 🌱 I’m currently learning Java, HTML and CSS
 
 Musician who recently started coding.
