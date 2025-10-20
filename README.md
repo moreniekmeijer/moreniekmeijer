@@ -8,6 +8,7 @@ Some downloadables:
 - [M4L Melodic Pattern Generator](https://github.com/moreniekmeijer/m4l-melodic-pattern-generator) (Max/MSP)
 
 Some web-apps:
+- [Motivation Letter Generator](https://motivation-letter-generator-production.up.railway.app/) (Python (Flask), JavaScript)
 - [Streak Saver](https://streak-saver.netlify.app/) (Python (Flask), JavaScript (React))
 - [Percussion Lesson Platform (backend)](https://github.com/moreniekmeijer/backend-lesson-platform) (Java (SpringBoot))
 - [Percussion Lesson Platform (frontend)](https://github.com/moreniekmeijer/frontend-lesson-platform) (JavaScript (React))
